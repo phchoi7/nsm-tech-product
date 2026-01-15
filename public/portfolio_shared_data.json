@@ -1,17 +1,20 @@
 {
   "basic_info": {
-    "name": "NSM Tech Team",
+    "name": "Ng Siu Mui Secondary School TECH TEAM",
     "titles": [
-      "Innovation",
-      "Technology",
-      "Education",
-      "Product Development"
+      "Tech Team",
+      "🎯 Innovation",
+      "💻 Technology",
+      "📚 Education",
+      "⚡ Product Development",
+      "🏆 Award Winning",
+      "🌟 Creative Solutions"
     ],
     "social": [
       {
-        "name": "github",
-        "url": "https://github.com",
-        "class": "fab fa-github"
+        "name": "school",
+        "url": "https://www.sdbnsm.edu.hk/",
+        "class": "fas fa-school"
       },
       {
         "name": "instagram",
