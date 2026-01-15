@@ -13,7 +13,7 @@
     {
       "title": "NFC 梅記智能超市",
       "startDate": "2024",
-      "description": "創新的NFC智能購物系統，專為視力退化的長者而設。利用NFC（近場通訊）技術連接產品數據庫，讓用家通過手機了解產品資訊，並細心考慮字體大小、顏色對比及標示清晰度，幫助視力退化的長者在購買食物時能清晰看到營養資訊。系統結合了AI和NFC技術，讓健康飲食、長者友善和環保減廢變得更簡單有趣，推廣樂齡科技，為社區帶來更多關愛和平等。由譚良蔚老師指導，4A班周境源、周靖翹、何國泓及母晨奕帆同學開發。\n\n🏆 獲獎成就：\n• 學生創新大賽2025（香港教育城主辦）- 全港中學組高級組季軍\n• Fun-Tech比賽2024/25（香港理工大學主辦）- 創意RFID組別冠軍\n• 於香港會議展覽中心「2025學與教展覽」期間展示成果\n• 香港教育城主席李漢祥先生親自頒獎\n\n📰 傳媒報導：https://www.stheadline.com/knowledge/3467783/\n\n💡 參賽歷程：自2025年4月起，經歷三輪線下選拔，成功晉身決賽。母晨奕帆同學代表團隊出席理大頒獎典禮並上台分享設計理念。團隊日後會繼續完善設計，惠及更多有需要人士。",
+      "description": "創新的NFC智能購物系統，專為視力退化的長者而設。\n\n👥 團隊成員：\n• 指導老師：譚良蔚老師\n• 學生成員（4A）：周境源、周靖翹、何國泓、母晨奕帆\n\n💡 設計理念：\n利用NFC（近場通訊）技術連接產品數據庫，讓用家通過手機了解產品資訊，並細心考慮字體大小、顏色對比及標示清晰度，幫助視力退化的長者在購買食物時能清晰看到營養資訊。系統結合了App Inventor和NFC技術，讓健康飲食、長者友善和環保減廢變得更簡單有趣，推廣樂齡科技，為社區帶來更多關愛和平等。\n\n🏆 獲獎成就：\n• 學生創新大賽2025（香港教育城主辦）- 全港中學組高級組季軍\n• Fun-Tech比賽2024/25（香港理工大學主辦）- 創意RFID組別冠軍\n• 於香港會議展覽中心「2025學與教展覽」期間展示成果\n• 香港教育城主席李漢祥先生親自頒獎\n\n📰 傳媒報導：https://www.stheadline.com/knowledge/3467783/\n\n💡 參賽歷程：自2025年4月起，經歷三輪線下選拔，成功晉身決賽。母晨奕帆同學代表團隊出席理大頒獎典禮並上台分享設計理念。團隊日後會繼續完善設計，惠及更多有需要人士。",
       "images": [
         "images/portfolio/animal-shelter/p1.jpg",
         "images/portfolio/animal-shelter/p2.jpg"
@@ -22,22 +22,22 @@
       "technologies": [
         {
           "class": "devicon-python-plain",
-          "name": "人工智能"
-        },
-        {
-          "class": "devicon-arduino-plain",
           "name": "NFC技術"
         },
         {
+          "class": "devicon-arduino-plain",
+          "name": "App Inventor"
+        },
+        {
           "class": "devicon-javascript-plain",
-          "name": "手機應用"
+          "name": "Python"
         }
       ]
     },
     {
       "title": "韓國WICO世界發明創意競賽",
       "startDate": "2024",
-      "description": "5A的孔彥、餘梓鋗、黃傲軒，及4A的葉宏斌和周靖翹於暑假遠赴韓國首爾參加韓國WICO世界發明創意競賽。這場國際性比賽吸引了來自不同國家的隊伍，同學們把握機會與其他國家的隊伍交流設計心得，互相啓發。\n\n當所有準備工作完成後，兩組代表隊伍向評判匆報，成功展示了他們的作品及功能。雖然仍有不足之處，但都給評判們留下了深刻的印象。\n\n🏆 獲獎成就：\n• 2024年韓國WICO世界發明創意競賽 - 銀獎\n• 得到評審的賞識及認同\n• 與多國隊伍交流，開闊國際視野\n• 獲得寶貴的國際競賽經驗\n\n👥 由教師Choi和Tang帶領，此行除了讓同學的作品得到認同外，另一目的是讓同學打開眼界，與其他地方的人和學生交流。同學最終在韓國得到所屬組別的銀獎，同學們都感到很興奮與滿足，亦讓他們想在回港後繼續改良自己的作品。",
+      "description": "於暑假遠赴韓國首爾參加韓國WICO世界發明創意競賽。這場國際性比賽吸引了來自不同國家的隊伍，同學們把握機會與其他國家的隊伍交流設計心得，互相啓發。\n\n👥 團隊成員：\n• 帶隊老師：崔老師、鄧老師\n• 學生成員（5A）：孔彥、餘梓鋗、黃傲軒\n• 學生成員（4A）：葉宏斌、周靖翹\n\n🏆 獲獎成就：\n• 2024年韓國WICO世界發明創意競賽 - 銀獎\n• 得到評審的賞識及認同\n• 與多國隊伍交流，開闊國際視野\n• 獲得寶貴的國際競賽經驗\n\n💡 比賽經驗：\n當所有準備工作完成後，兩組代表隊伍向評判匯報，成功展示了他們的作品及功能。雖然仍有不足之處，但都給評判們留下了深刻的印象。此行除了讓同學的作品得到認同外，另一目的是讓同學打開眼界，與其他地方的人和學生交流。同學最終在韓國得到所屬組別的銀獎，同學們都感到很興奮與滿足，亦讓他們想在回港後繼續改良自己的作品。",
       "images": [
         "images/portfolio/photography/p1.jpg",
         "images/portfolio/photography/p2.jpg"
@@ -46,22 +46,22 @@
       "technologies": [
         {
           "class": "devicon-arduino-plain",
-          "name": "創新設計"
+          "name": "Arduino"
         },
         {
           "class": "devicon-python-plain",
-          "name": "系統設計"
+          "name": "micro:bit"
         },
         {
           "class": "devicon-raspberrypi-line",
-          "name": "物聯網"
+          "name": "Scratch"
         }
       ]
     },
     {
       "title": "智能學習健康套裝 2026",
       "startDate": "2026",
-      "description": "由譚老師（Miss Tam）指導開發的創新AI驅動健康教育平台。這個綜合性健康管理系統整合了多個智能功能，旨在推廣學生和社區的健康生活方式。\n\n💚 主要功能：\n• AI健康對話BOT - 智能對話人工智能，提供個人化健康諮詢，以自然語言回答健康相關問題\n• BMI計算器加AI推薦 - 進階身體質量指數計算器，根據個人數據提供定製化的健康和營養建議\n• 互動健康問答遊戲 - 吸引人的遊戲化學習體驗，教授重要的健康知識並推廣健康習慣\n• Health Kit整合 - 與穿戴式裝置和健康監測工具無縫連接，實時追蹤數據\n\n🎯 項目目標：\n結合人工智能與健康教育，讓學習健康知識變得有趣、易於獲取且個人化，適合所有年齡的學生。\n\n💡 技術特點：\n利用機器學習演算法、自然語言處理和互動UI/UX設計，創造吸引人的健康教育體驗。",
+      "description": "創新的健康教育平台，整合多個功能以推廣學生和社區的健康生活方式。\n\n👥 團隊成員：\n• 指導老師：譚老師\n• 學生成員：F.4-F.5開發團隊\n\n💚 主要功能：\n• AI健康對話BOT - 提供健康諮詢的聊天機器人\n• BMI計算器加推薦 - 根據數據提供健康和營養建議\n• 互動健康問答遊戲 - 遊戲化學習體驗教授健康知識\n• Health Kit整合 - 連接健康監測工具\n\n🎯 項目目標：\n讓健康教育變得有趣、易於獲取且個人化。\n\n💡 技術特點：\n使用Scratch編程、App Inventor、HTML/CSS和基礎JavaScript。",
       "images": [
         "images/portfolio/adventure/p1.jpg",
         "images/portfolio/adventure/p2.jpg"
@@ -70,15 +70,15 @@
       "technologies": [
         {
           "class": "devicon-python-plain",
-          "name": "AI/ML"
+          "name": "Scratch"
         },
         {
-          "class": "devicon-react-original",
-          "name": "React"
+          "class": "devicon-android-plain",
+          "name": "App Inventor"
         },
         {
-          "class": "devicon-nodejs-plain",
-          "name": "Node.js"
+          "class": "devicon-html5-plain",
+          "name": "HTML/CSS"
         }
       ]
     }
