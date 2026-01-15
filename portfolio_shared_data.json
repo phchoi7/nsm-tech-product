@@ -1,0 +1,73 @@
+{
+  "basic_info": {
+    "name": "NSM Tech Team",
+    "titles": [
+      "Innovation",
+      "Technology",
+      "Education",
+      "Product Development"
+    ],
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com",
+        "class": "fab fa-github"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com",
+        "class": "fab fa-instagram"
+      }
+    ],
+    "image": "myProfile.jpg"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "Scratch",
+        "class": "devicon-python-plain",
+        "level": "75"
+      },
+      {
+        "name": "HTML",
+        "class": "devicon-html5-plain",
+        "level": "70"
+      },
+      {
+        "name": "CSS",
+        "class": "devicon-css3-plain",
+        "level": "65"
+      },
+      {
+        "name": "JavaScript",
+        "class": "devicon-javascript-plain",
+        "level": "60"
+      },
+      {
+        "name": "Arduino",
+        "class": "devicon-arduino-plain",
+        "level": "70"
+      },
+      {
+        "name": "micro:bit",
+        "class": "devicon-raspberrypi-line",
+        "level": "75"
+      },
+      {
+        "name": "App Inventor",
+        "class": "devicon-android-plain",
+        "level": "65"
+      },
+      {
+        "name": "Canva",
+        "class": "devicon-photoshop-plain",
+        "level": "80"
+      },
+      {
+        "name": "Figma",
+        "class": "devicon-figma-plain",
+        "level": "60"
+      }
+    ]
+  }
+}
