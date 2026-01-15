@@ -69,18 +69,18 @@ class About extends Component {
                     ></span>
                   </div>
                   <div
-                    className="card-body font-trebuchet text-justify ml-3 mr-3"
+                    className="card-body font-trebuchet ml-3 mr-3 about-description"
                     style={{
                       height: "auto",
-                      fontSize: "132%",
-                      lineHeight: "200%",
+                      fontSize: "110%",
+                      lineHeight: "1.8",
                     }}
                   >
                     <br />
                     <span className="wave">{hello} :) </span>
                     <br />
                     <br />
-                    {about}
+                    <div style={{ textAlign: "left" }}>{about}</div>
                   </div>
                 </div>
               </div>

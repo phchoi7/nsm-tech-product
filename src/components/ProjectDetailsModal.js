@@ -93,7 +93,78 @@ class ProjectDetailsModal extends Component {
                 </a>
               ) : null}
             </h3>
-            <p className="modal-description">{description}</p>
+            <div className="modal-description">
+              {description &&
+                description.split("\n").map((paragraph, index) => {
+                  // Check if it's an achievements section
+                  if (
+                    paragraph.includes("🏆") ||
+                    paragraph.includes("ACHIEVEMENTS")
+                  ) {
+                    return (
+                      <div key={index} className="achievements-section">
+                        <h5 className="section-subtitle">{paragraph}</h5>
+                      </div>
+                    );
+                  }
+                  // Check if it's a media coverage section
+                  else if (
+                    paragraph.includes("📰") ||
+                    paragraph.includes("Media Coverage") ||
+                    paragraph.includes("傳媒報導")
+                  ) {
+                    const parts = paragraph.split(":");
+                    if (parts.length > 1) {
+                      return (
+                        <div key={index} className="media-section">
+                          <h5 className="section-subtitle">{parts[0]}:</h5>
+                          <a
+                            href={parts[1].trim()}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="media-link"
+                          >
+                            {parts[1].trim()}
+                          </a>
+                        </div>
+                      );
+                    }
+                    return (
+                      <div key={index} className="media-section">
+                        {paragraph}
+                      </div>
+                    );
+                  }
+                  // Check if it's a participation history section
+                  else if (
+                    paragraph.includes("💡") ||
+                    paragraph.includes("參賽歷程")
+                  ) {
+                    return (
+                      <div key={index} className="history-section">
+                        <h5 className="section-subtitle">{paragraph}</h5>
+                      </div>
+                    );
+                  }
+                  // Check if it's a bullet point
+                  else if (paragraph.trim().startsWith("•")) {
+                    return (
+                      <div key={index} className="achievement-item">
+                        {paragraph}
+                      </div>
+                    );
+                  }
+                  // Regular paragraph
+                  else if (paragraph.trim()) {
+                    return (
+                      <p key={index} className="description-paragraph">
+                        {paragraph}
+                      </p>
+                    );
+                  }
+                  return null;
+                })}
+            </div>
             <div className="col-md-12 text-center">
               <ul className="list-inline mx-auto">{tech}</ul>
             </div>

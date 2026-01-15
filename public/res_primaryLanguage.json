@@ -1,118 +1,136 @@
 {
-    "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
-      "section_name": {
-        "about": "About me",
-        "projects": "Projects",
-        "skills": "Skills",
-        "experience": "Experience"
-      }
+  "basic_info": {
+    "description_header": "Welcome",
+    "description": "👋 We are the NSM Tech Team from Ng Siu Mui Secondary School (Salesian). Under the guidance of Ms. Sally Tam (Future Talent Academy), our students develop innovative technology solutions that make real-world impact. Through 'Learning by Doing', we combine technology with humanistic care to address community needs. Our award-winning projects demonstrate our commitment to education, creativity, and cutting-edge technology. Explore our achievements below! 💜",
+    "section_name": {
+      "about": "About Our Team",
+      "projects": "Our Products",
+      "skills": "Technical Skills",
+      "experience": "Team Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "NFC Mei Kee Smart Supermarket (NFC 梅記智能超市)",
+      "startDate": "2024",
+      "description": "An innovative NFC-based smart shopping system designed to help elderly people with visual impairment. Using NFC (Near Field Communication) technology, users can access product information through their smartphones with enhanced font sizes, color contrast, and clear labeling. The system combines AI and NFC technology to make healthy eating, elderly-friendly shopping, and environmental sustainability easier and more accessible. Led by Ms. Sally Tam, developed by students Chow King Yuen (4A), Chow Ching Kiu (4A), Ho Kwok Wang (4A), and Mou Sun Yik Fan (4A).\n\n🏆 ACHIEVEMENTS:\n• 3rd Place - Student Innovation Competition 2025 (Hong Kong EdCity) - Senior Secondary Category\n• Champion - Fun-Tech Competition 2024/25 (Hong Kong Polytechnic University) - Creative RFID Category\n• Presented at Hong Kong Convention and Exhibition Centre during Learning and Teaching Expo 2025\n• Award presented by Mr. Lee Hon Cheung, Chairman of Hong Kong EdCity\n\n📰 Media Coverage: https://www.stheadline.com/knowledge/3467783/",
+      "images": [
+        "images/portfolio/animal-shelter/p1.jpg",
+        "images/portfolio/animal-shelter/p2.jpg"
+      ],
+      "url": "https://www.stheadline.com/knowledge/3467783/",
+      "technologies": [
+        {
+          "class": "devicon-python-plain",
+          "name": "AI"
+        },
+        {
+          "class": "devicon-arduino-plain",
+          "name": "NFC"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Mobile App"
+        }
+      ]
     },
-    "projects": [
-      {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
-        "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      }
-    ],
-    "experience": [
-      {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
-        "mainTech": [
-          "Angular 8/9/10"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
-        ]
-      }
-    ]
-  }
+    {
+      "title": "WICO Korea World Invention Creativity Competition",
+      "startDate": "2024",
+      "description": "Our talented students - Hung Yin (5A), Yu Tsz Hang (5A), Wong Ngo Hin (5A), Yip Wang Ban (4A), and Chow Ching Kiu (4A) - traveled to Seoul, Korea during summer vacation to participate in the WICO World Invention Creativity Competition. This prestigious international competition attracted teams from various countries, providing an excellent opportunity for cross-cultural exchange and innovation sharing.\n\nAfter thorough preparation, both teams presented their innovative projects to the judges, successfully demonstrating their designs and functionalities. Despite acknowledging areas for improvement, they left a strong impression on the judges with their creativity and technical skills.\n\n🏆 ACHIEVEMENTS:\n• Silver Award - WICO Korea World Invention Creativity Competition 2024\n• International recognition from judges and peers\n• Cross-cultural exchange with teams from multiple countries\n• Valuable experience in international competition environment\n\n👥 Led by Teachers Choi and Tang, this experience not only validated students' innovative capabilities but also broadened their horizons through meaningful cultural exchange and learning opportunities.",
+      "images": [
+        "images/portfolio/photography/p1.jpg",
+        "images/portfolio/photography/p2.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-arduino-plain",
+          "name": "Innovation"
+        },
+        {
+          "class": "devicon-python-plain",
+          "name": "Design"
+        },
+        {
+          "class": "devicon-raspberrypi-line",
+          "name": "IoT"
+        }
+      ]
+    },
+    {
+      "title": "Smart Learning Health Kit 2026",
+      "startDate": "2026",
+      "description": "An innovative AI-powered health education platform developed under the guidance of Ms. Sally Tam. This comprehensive health management system integrates multiple intelligent features to promote healthy lifestyles among students and the community.\n\n💚 KEY FEATURES:\n• AI Health Dialogue Bot - Intelligent conversational AI providing personalized health consultations and answering health-related questions in natural language\n• BMI Calculator with AI Recommendations - Advanced body mass index calculator that provides customized health and nutrition advice based on individual metrics\n• Interactive Health Quiz Game - Engaging gamified learning experience teaching important health knowledge and promoting healthy habits\n• Health Kit Integration - Seamless connection with wearable devices and health monitoring tools for real-time data tracking\n\n🎯 PROJECT GOALS:\nCombining artificial intelligence with health education to make learning about wellness fun, accessible, and personalized for students of all ages.\n\n💡 TECHNOLOGIES:\nLeverages machine learning algorithms, natural language processing, and interactive UI/UX design to create an engaging health education experience.",
+      "images": [
+        "images/portfolio/adventure/p1.jpg",
+        "images/portfolio/adventure/p2.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-python-plain",
+          "name": "AI/ML"
+        },
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Node.js"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "NSM Tech Team",
+      "title": "Team Leader - Ms. Sally Tam",
+      "years": "2022 - Present",
+      "mainTech": [
+        "Educational Technology"
+      ],
+      "technologies": [
+        "Team Management",
+        "Project Planning",
+        "Curriculum Development",
+        "Innovation",
+        "Mentorship",
+        "STEM Education"
+      ]
+    },
+    {
+      "company": "NSM Tech Team",
+      "title": "Developer - Matthew Choi",
+      "years": "2023 - Present",
+      "mainTech": [
+        "Full-Stack Development"
+      ],
+      "technologies": [
+        "React",
+        "Node.js",
+        "Python",
+        "JavaScript",
+        "IoT Development",
+        "UI/UX Design"
+      ]
+    },
+    {
+      "company": "NSM Tech Team",
+      "title": "Developer - Natiate Tang",
+      "years": "2023 - Present",
+      "mainTech": [
+        "AI & Machine Learning"
+      ],
+      "technologies": [
+        "Python",
+        "Machine Learning",
+        "Data Analysis",
+        "Arduino",
+        "Raspberry Pi",
+        "Hardware Integration"
+      ]
+    }
+  ]
+}
