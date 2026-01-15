@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/nsm-tech/static/css/main.7177acd3.chunk.css",
-    "main.js": "/nsm-tech/static/js/main.bc1977c8.chunk.js",
-    "main.js.map": "/nsm-tech/static/js/main.bc1977c8.chunk.js.map",
-    "runtime-main.js": "/nsm-tech/static/js/runtime-main.9cbe32b5.js",
-    "runtime-main.js.map": "/nsm-tech/static/js/runtime-main.9cbe32b5.js.map",
-    "static/css/2.58736d6f.chunk.css": "/nsm-tech/static/css/2.58736d6f.chunk.css",
-    "static/js/2.51f04fa8.chunk.js": "/nsm-tech/static/js/2.51f04fa8.chunk.js",
-    "static/js/2.51f04fa8.chunk.js.map": "/nsm-tech/static/js/2.51f04fa8.chunk.js.map",
-    "index.html": "/nsm-tech/index.html",
-    "precache-manifest.092993a1f932509c5983f76b7535f28d.js": "/nsm-tech/precache-manifest.092993a1f932509c5983f76b7535f28d.js",
-    "service-worker.js": "/nsm-tech/service-worker.js",
-    "static/css/2.58736d6f.chunk.css.map": "/nsm-tech/static/css/2.58736d6f.chunk.css.map",
-    "static/css/main.7177acd3.chunk.css.map": "/nsm-tech/static/css/main.7177acd3.chunk.css.map",
-    "static/js/2.51f04fa8.chunk.js.LICENSE.txt": "/nsm-tech/static/js/2.51f04fa8.chunk.js.LICENSE.txt"
+    "main.css": "/nsm-tech-product/static/css/main.7177acd3.chunk.css",
+    "main.js": "/nsm-tech-product/static/js/main.de6d4b4b.chunk.js",
+    "main.js.map": "/nsm-tech-product/static/js/main.de6d4b4b.chunk.js.map",
+    "runtime-main.js": "/nsm-tech-product/static/js/runtime-main.d5e727f0.js",
+    "runtime-main.js.map": "/nsm-tech-product/static/js/runtime-main.d5e727f0.js.map",
+    "static/css/2.58736d6f.chunk.css": "/nsm-tech-product/static/css/2.58736d6f.chunk.css",
+    "static/js/2.51f04fa8.chunk.js": "/nsm-tech-product/static/js/2.51f04fa8.chunk.js",
+    "static/js/2.51f04fa8.chunk.js.map": "/nsm-tech-product/static/js/2.51f04fa8.chunk.js.map",
+    "index.html": "/nsm-tech-product/index.html",
+    "precache-manifest.2adf197e2551bcad52b1202717442df5.js": "/nsm-tech-product/precache-manifest.2adf197e2551bcad52b1202717442df5.js",
+    "service-worker.js": "/nsm-tech-product/service-worker.js",
+    "static/css/2.58736d6f.chunk.css.map": "/nsm-tech-product/static/css/2.58736d6f.chunk.css.map",
+    "static/css/main.7177acd3.chunk.css.map": "/nsm-tech-product/static/css/main.7177acd3.chunk.css.map",
+    "static/js/2.51f04fa8.chunk.js.LICENSE.txt": "/nsm-tech-product/static/js/2.51f04fa8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9cbe32b5.js",
+    "static/js/runtime-main.d5e727f0.js",
     "static/css/2.58736d6f.chunk.css",
     "static/js/2.51f04fa8.chunk.js",
     "static/css/main.7177acd3.chunk.css",
-    "static/js/main.bc1977c8.chunk.js"
+    "static/js/main.de6d4b4b.chunk.js"
   ]
 }
