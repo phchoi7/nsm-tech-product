@@ -9,9 +9,9 @@
     ],
     "social": [
       {
-        "name": "github",
-        "url": "https://github.com",
-        "class": "fab fa-github"
+        "name": "school",
+        "url": "https://www.sdbnsm.edu.hk/",
+        "class": "fas fa-school"
       },
       {
         "name": "instagram",
