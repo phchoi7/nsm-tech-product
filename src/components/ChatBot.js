@@ -130,7 +130,7 @@ class ChatBot extends Component {
         {isOpen && (
           <div className="ai-chat-container">
             <div className="ai-chat-header">
-              <h3>🤖 NSM Tech Assistant</h3>
+              <h3><span role="img" aria-label="robot">🤖</span> NSM Tech Assistant</h3>
               <p>Ask me about our projects!</p>
             </div>
 
@@ -138,7 +138,7 @@ class ChatBot extends Component {
               {displayMessages.length === 0 ? (
                 <div className="ai-welcome">
                   <span className="iconify" data-icon="mdi:robot-excited" data-inline="false" style={{fontSize: '60px', color: '#667eea'}}></span>
-                  <p>👋 Hello! I'm NSM Tech Assistant<br/>Ask me about our award-winning projects!</p>
+                  <p><span role="img" aria-label="wave">👋</span> Hello! I'm NSM Tech Assistant<br/>Ask me about our award-winning projects!</p>
                 </div>
               ) : (
                 displayMessages.map((msg, idx) => (

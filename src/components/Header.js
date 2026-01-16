@@ -5,10 +5,6 @@ import ParticleBackground from "./ParticleBackground";
 class Header extends Component {
   titles = [];
 
-  constructor() {
-    super();
-  }
-
   render() {
     if (this.props.sharedData) {
       var name = this.props.sharedData.name;
