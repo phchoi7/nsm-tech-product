@@ -11,6 +11,56 @@
   },
   "projects": [
     {
+      "title": "IEEE TALE 2025 - International Education Conference",
+      "startDate": "2025",
+      "description": "IEEE TALE (Technology and Learning) is the IEEE Education Society's flagship Asia-Pacific conference series, catering to researchers and practitioners with an interest in engineering, technology, and integrated STEAM education. The conference welcomes those interested in the innovative use of digital technologies for learning, teaching, and assessment in any discipline.\n\n🌏 CONFERENCE HIGHLIGHTS:\n• Hosted by Macao Polytechnic University from December 4-7, 2025\n• Theme: 'Innovation in Engineering Technology & Integrated STEAM Education'\n• Over 100 global experts and industry leaders from higher education, VET, K-12, corporate, government, and healthcare sectors\n• Platform for cross-regional and cross-disciplinary international cooperation\n\n👥 TEAM:\n• Teacher Advisor: Ms. Sally Tam (Future Talent Academy)\n• Students: NFC Smart Supermarket Development Team\n\n🏆 ACHIEVEMENTS:\n• Invited to present NFC Smart Supermarket project at international conference\n• Technical exchange and showcase at Macao Polytechnic University\n• International recognition of innovative technology education work\n• Networking with global education technology experts\n\n💡 SIGNIFICANCE:\nOur NFC project caught international attention, demonstrating how secondary school students can contribute to cutting-edge technology education. This invitation validates our 'Learning by Doing' approach and positions NSM Tech Team on the global stage of educational innovation.",
+      "images": [
+        "images/portfolio/ieee-tale-2025/p1.jpg",
+        "images/portfolio/ieee-tale-2025/p2.jpg",
+        "images/portfolio/ieee-tale-2025/p3.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-python-plain",
+          "name": "NFC Tech"
+        },
+        {
+          "class": "devicon-android-plain",
+          "name": "App Inventor"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "IoT"
+        }
+      ]
+    },
+    {
+      "title": "Hong Kong Innovation & Technology Fair 2025",
+      "startDate": "2025",
+      "description": "An annual flagship event showcasing Hong Kong's latest innovations in technology and education. Our team was selected to represent secondary school innovation achievements with live demonstrations and interactive exhibits.\n\n👥 TEAM:\n• Teacher Advisors: Ms. Sally Tam, Mr. Choi, Mr. Tang\n• Students: Mixed team from F.4-F.5 representing multiple projects\n\n🎯 EXHIBITION HIGHLIGHTS:\n• Live demonstration of NFC Smart Supermarket system\n• Interactive AI Health Chatbot showcase\n• Student-led technical presentations to visitors\n• Networking with industry professionals and potential partners\n\n🏆 OUTCOMES:\n• Featured in main exhibition hall alongside university projects\n• Media coverage from local tech publications\n• Positive feedback from government officials and industry leaders\n• Generated interest from potential sponsors and collaborators\n\n💡 IMPACT:\nThis exhibition provided our students with invaluable experience in public presentation, technical demonstration, and professional networking. It reinforced the real-world applicability of their projects and boosted their confidence in pursuing technology careers.",
+      "images": [
+        "images/portfolio/innovation-tech-fair-2025/p1.jpg",
+        "images/portfolio/innovation-tech-fair-2025/p2.jpg",
+        "images/portfolio/innovation-tech-fair-2025/p3.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-arduino-plain",
+          "name": "Arduino"
+        },
+        {
+          "class": "devicon-raspberrypi-line",
+          "name": "Raspberry Pi"
+        },
+        {
+          "class": "devicon-python-plain",
+          "name": "AI/ML"
+        }
+      ]
+    },
+    {
       "title": "NFC Mei Kee Smart Supermarket (NFC 梅記智能超市)",
       "startDate": "2024",
       "description": "An innovative NFC-based smart shopping system designed to help elderly people with visual impairment. Using NFC (Near Field Communication) technology, users can access product information through their smartphones with enhanced font sizes, color contrast, and clear labeling. The system combines AI and NFC technology to make healthy eating, elderly-friendly shopping, and environmental sustainability easier and more accessible.\n\n👥 TEAM:\n• Teacher Advisor: Ms. Sally Tam (Future Talent Academy)\n• Students: Chow King Yuen (4A), Chow Ching Kiu (4A), Ho Kwok Wang (4A), Mou Sun Yik Fan (4A)\n\n🏆 ACHIEVEMENTS:\n• 3rd Place - Student Innovation Competition 2025 (Hong Kong EdCity) - Senior Secondary Category\n• Champion - Fun-Tech Competition 2024/25 (Hong Kong Polytechnic University) - Creative RFID Category\n• Presented at Hong Kong Convention and Exhibition Centre during Learning and Teaching Expo 2025\n• Award presented by Mr. Lee Hon Cheung, Chairman of Hong Kong EdCity\n\n📰 Media Coverage: https://www.stheadline.com/knowledge/3467783/",
