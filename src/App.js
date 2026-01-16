@@ -7,6 +7,7 @@ import About from "./components/About";
 import Experience from "./components/Experience";
 import Projects from "./components/Projects";
 import Skills from "./components/Skills";
+import ChatBot from "./components/ChatBot";
 
 class App extends Component {
   constructor(props) {
@@ -133,6 +134,7 @@ class App extends Component {
           resumeBasicInfo={this.state.resumeData.basic_info}
         />
         <Footer sharedBasicInfo={this.state.sharedData.basic_info} />
+        <ChatBot />
       </div>
     );
   }
