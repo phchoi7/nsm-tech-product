@@ -25,10 +25,17 @@ class Header extends Component {
     return (
       <header
         id="home"
-        style={{ height: window.innerHeight - 140, display: "block", position: "relative" }}
+        style={{
+          height: window.innerHeight - 140,
+          display: "block",
+          position: "relative",
+        }}
       >
         <ParticleBackground />
-        <div className="row aligner" style={{ height: "100%", position: "relative", zIndex: 2 }}>
+        <div
+          className="row aligner"
+          style={{ height: "100%", position: "relative", zIndex: 2 }}
+        >
           <div className="col-md-12">
             <div>
               <span
