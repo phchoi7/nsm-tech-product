@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import Typical from "react-typical";
 import Switch from "react-switch";
+import ParticleBackground from "./ParticleBackground";
 
 class Header extends Component {
   titles = [];
@@ -44,9 +45,10 @@ class Header extends Component {
     return (
       <header
         id="home"
-        style={{ height: window.innerHeight - 140, display: "block" }}
+        style={{ height: window.innerHeight - 140, display: "block", position: "relative" }}
       >
-        <div className="row aligner" style={{ height: "100%" }}>
+        <ParticleBackground />
+        <div className="row aligner" style={{ height: "100%", position: "relative", zIndex: 2 }}>
           <div className="col-md-12">
             <div>
               <span
