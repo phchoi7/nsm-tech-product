@@ -1,6 +1,5 @@
 {
   "name": "react-frontend-dev-portfolio",
-  "homepage": "https://phchoi7.github.io/nsm-tech-product",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
