@@ -36,9 +36,9 @@
       ]
     },
     {
-      "title": "Hong Kong Innovation & Technology Fair 2025",
+      "title": "7th Greater Bay Area STEAM Excellence Awards 2025",
       "startDate": "2025",
-      "description": "An annual flagship event showcasing Hong Kong's latest innovations in technology and education. Our team was selected to represent secondary school innovation achievements with live demonstrations and interactive exhibits.\n\n👥 TEAM:\n• Teacher Advisors: Ms. Sally Tam, Mr. Choi, Mr. Tang\n• Students: Mixed team from F.4-F.5 representing multiple projects\n\n🎯 EXHIBITION HIGHLIGHTS:\n• Live demonstration of NFC Smart Supermarket system\n• Interactive AI Health Chatbot showcase\n• Student-led technical presentations to visitors\n• Networking with industry professionals and potential partners\n\n🏆 OUTCOMES:\n• Featured in main exhibition hall alongside university projects\n• Media coverage from local tech publications\n• Positive feedback from government officials and industry leaders\n• Generated interest from potential sponsors and collaborators\n\n💡 IMPACT:\nThis exhibition provided our students with invaluable experience in public presentation, technical demonstration, and professional networking. It reinforced the real-world applicability of their projects and boosted their confidence in pursuing technology careers.",
+      "description": "The Greater Bay Area STEAM Excellence Awards recognize outstanding achievements in Science, Technology, Engineering, Arts, and Mathematics education across Hong Kong, Macau, and Guangdong Province. This prestigious competition showcases innovative projects that demonstrate excellence in STEAM education and real-world problem-solving.\n\n👥 TEAM:\n• Teacher Advisor: Ms. Sally Tam (Future Talent Academy)\n• Students: Chow Ching Kiu (5A), Ho Kwok Wang (5A), Mou Sun Yik Fan (5A)\n• Project: NFC Mei Kee Smart Supermarket\n\n🏆 ACHIEVEMENTS:\n• Merit Award - Information & Communications Technology Category (Secondary School Division)\n• Award ceremony held at Hong Kong Computer and Communications Festival\n• Recognition for innovative application of NFC technology in elderly care\n• Demonstrated excellence in integrating technology with social responsibility\n\n💡 SIGNIFICANCE:\nThis award validates our team's commitment to using technology for social good. The NFC Smart Supermarket project not only showcases technical innovation but also addresses real community needs - helping elderly people with visual impairment access product information easily. Being recognized in the Greater Bay Area competition highlights the regional impact of our work and our contribution to STEAM education excellence.\n\n🎯 PROJECT IMPACT:\nThe award reinforces our belief that secondary school students can create meaningful technology solutions that serve society. It motivates our team to continue developing innovative projects that combine technical skills with humanistic care.",
       "images": [
         "images/portfolio/innovation-tech-fair-2025/p1.jpg",
         "images/portfolio/innovation-tech-fair-2025/p2.jpg",
@@ -48,22 +48,22 @@
       "technologies": [
         {
           "class": "devicon-arduino-plain",
-          "name": "Arduino"
+          "name": "NFC Tech"
         },
         {
-          "class": "devicon-raspberrypi-line",
-          "name": "Raspberry Pi"
+          "class": "devicon-android-plain",
+          "name": "App Inventor"
         },
         {
           "class": "devicon-python-plain",
-          "name": "AI/ML"
+          "name": "IoT"
         }
       ]
     },
     {
       "title": "NFC Mei Kee Smart Supermarket (NFC 梅記智能超市)",
       "startDate": "2024",
-      "description": "An innovative NFC-based smart shopping system designed to help elderly people with visual impairment. Using NFC (Near Field Communication) technology, users can access product information through their smartphones with enhanced font sizes, color contrast, and clear labeling. The system combines AI and NFC technology to make healthy eating, elderly-friendly shopping, and environmental sustainability easier and more accessible.\n\n👥 TEAM:\n• Teacher Advisor: Ms. Sally Tam (Future Talent Academy)\n• Students: Chow King Yuen (4A), Chow Ching Kiu (4A), Ho Kwok Wang (4A), Mou Sun Yik Fan (4A)\n\n🏆 ACHIEVEMENTS:\n• 3rd Place - Student Innovation Competition 2025 (Hong Kong EdCity) - Senior Secondary Category\n• Champion - Fun-Tech Competition 2024/25 (Hong Kong Polytechnic University) - Creative RFID Category\n• Presented at Hong Kong Convention and Exhibition Centre during Learning and Teaching Expo 2025\n• Award presented by Mr. Lee Hon Cheung, Chairman of Hong Kong EdCity\n\n📰 Media Coverage: https://www.stheadline.com/knowledge/3467783/",
+      "description": "An innovative NFC-based smart shopping system designed to help elderly people with visual impairment. Using NFC (Near Field Communication) technology, users can access product information through their smartphones with enhanced font sizes, color contrast, and clear labeling. The system combines AI and NFC technology to make healthy eating, elderly-friendly shopping, and environmental sustainability easier and more accessible.\n\n👥 TEAM:\n• Teacher Advisor: Ms. Sally Tam (Future Talent Academy)\n• Students: Chow King Yuen (4A), Chow Ching Kiu (5A), Ho Kwok Wang (5A), Mou Sun Yik Fan (5A)\n\n🏆 ACHIEVEMENTS:\n• Merit Award - 7th Greater Bay Area STEAM Excellence Awards 2025 (Information & Communications Technology Category, Secondary Division)\n• 3rd Place - Student Innovation Competition 2025 (Hong Kong EdCity) - Senior Secondary Category\n• Champion - Fun-Tech Competition 2024/25 (Hong Kong Polytechnic University) - Creative RFID Category\n• Award ceremony at Hong Kong Computer and Communications Festival\n• Presented at Hong Kong Convention and Exhibition Centre during Learning and Teaching Expo 2025\n• Award presented by Mr. Lee Hon Cheung, Chairman of Hong Kong EdCity\n\n📰 Media Coverage: https://www.stheadline.com/knowledge/3467783/",
       "images": [
         "images/portfolio/nfc-smart-supermarket/p1.jpg",
         "images/portfolio/nfc-smart-supermarket/p2.jpg",
