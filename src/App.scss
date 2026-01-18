@@ -447,9 +447,13 @@ header h1 {
 	border-radius: 10px;
 	-webkit-tap-highlight-color: transparent; /* 移除手機點擊高亮 */
 	width: 100%;
+	min-height: 320px; /* 手機版最小高度確保一致 */
 	
 	> div {
 		width: 100%;
+		position: relative;
+		display: flex;
+		flex-direction: column;
 	}
 	
 	/* 桌面版增強 */
@@ -457,6 +461,7 @@ header h1 {
 		padding: 10px 10px 5px;
 		border-radius: 12px;
 		box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+		min-height: 380px; /* 桌面版最小高度 */
 		
 		&:hover {
 			transform: translateY(-10px) scale(1.02);
