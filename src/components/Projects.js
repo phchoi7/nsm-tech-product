@@ -19,6 +19,11 @@ class Projects extends Component {
     if (this.props.resumeProjects && this.props.resumeBasicInfo) {
       var sectionName = this.props.resumeBasicInfo.section_name.projects;
       var projects = this.props.resumeProjects.map(function (projects) {
+        // Check if this is the NFC project (Kings of Project)
+        const isKingsProject =
+          projects.title.includes("NFC Mei Kee") ||
+          projects.title.includes("NFC 梅記");
+
         return (
           <div
             className="col-sm-12 col-md-6 col-lg-4"
@@ -27,7 +32,13 @@ class Projects extends Component {
           >
             <span className="portfolio-item d-block">
               <div className="foto" onClick={() => detailsModalShow(projects)}>
-                <div>
+                <div style={{ position: "relative" }}>
+                  {isKingsProject && (
+                    <div className="kings-badge">
+                      <span className="crown-icon">👑</span>
+                      <span className="badge-text">KINGS OF PROJECT</span>
+                    </div>
+                  )}
                   <img
                     src={projects.images[0]}
                     alt="projectImages"
