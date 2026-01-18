@@ -35,7 +35,7 @@ class Projects extends Component {
                 <div style={{ position: "relative" }}>
                   {isKingsProject && (
                     <div className="kings-badge">
-                      <span className="crown-icon">👑</span>
+                      <span className="crown-icon" role="img" aria-label="crown">👑</span>
                       <span className="badge-text">KINGS OF PROJECT</span>
                     </div>
                   )}
