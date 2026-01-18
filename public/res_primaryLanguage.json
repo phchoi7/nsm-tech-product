@@ -11,6 +11,31 @@
   },
   "projects": [
     {
+      "title": "Smart Learning Health APP 2026",
+      "startDate": "2026",
+      "description": "An innovative health education platform that integrates multiple features to promote healthy lifestyles among students and the community.\n\n👥 TEAM:\n• Teacher Advisor: Ms. Sally Tam\n• Students: Development team from F.4-F.5\n\n💚 KEY FEATURES:\n• AI Health Dialogue Bot - Chatbot providing health consultations\n• BMI Calculator with Recommendations - Health and nutrition advice based on metrics\n• Interactive Health Quiz Game - Gamified learning experience teaching health knowledge\n• Health Kit Integration - Connection with health monitoring tools\n\n🎯 PROJECT GOALS:\nMaking health education fun, accessible, and personalized for students.\n\n💡 TECHNOLOGIES:\nUsing Scratch programming, App Inventor, HTML/CSS, and basic JavaScript.",
+      "images": [
+        "images/portfolio/smart-health-app/p1.jpg",
+        "images/portfolio/smart-health-app/p2.jpg",
+        "images/portfolio/smart-health-app/p3.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-python-plain",
+          "name": "Scratch"
+        },
+        {
+          "class": "devicon-android-plain",
+          "name": "App Inventor"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML/CSS"
+        }
+      ]
+    },
+    {
       "title": "IEEE TALE 2025 - International Education Conference",
       "startDate": "2025",
       "description": "IEEE TALE (Technology and Learning) is the IEEE Education Society's flagship Asia-Pacific conference series, catering to researchers and practitioners with an interest in engineering, technology, and integrated STEAM education. The conference welcomes those interested in the innovative use of digital technologies for learning, teaching, and assessment in any discipline.\n\n🌏 CONFERENCE HIGHLIGHTS:\n• Hosted by Macao Polytechnic University from December 4-7, 2025\n• Theme: 'Innovation in Engineering Technology & Integrated STEAM Education'\n• Over 100 global experts and industry leaders from higher education, VET, K-12, corporate, government, and healthcare sectors\n• Platform for cross-regional and cross-disciplinary international cooperation\n\n👥 TEAM:\n• Teacher Advisor: Ms. Sally Tam (Future Talent Academy)\n• Students: NFC Smart Supermarket Development Team\n\n🏆 ACHIEVEMENTS:\n• Invited to present NFC Smart Supermarket project at international conference\n• Technical exchange and showcase at Macao Polytechnic University\n• International recognition of innovative technology education work\n• Networking with global education technology experts\n\n💡 SIGNIFICANCE:\nOur NFC project caught international attention, demonstrating how secondary school students can contribute to cutting-edge technology education. This invitation validates our 'Learning by Doing' approach and positions NSM Tech Team on the global stage of educational innovation.",
@@ -59,32 +84,6 @@
       ]
     },
     {
-      "title": "NFC Mei Kee Smart Supermarket (NFC 梅記智能超市)",
-      "startDate": "2024",
-      "description": "An innovative NFC-based smart shopping system designed to help elderly people with visual impairment. Using NFC (Near Field Communication) technology, users can access product information through their smartphones with enhanced font sizes, color contrast, and clear labeling. The system combines AI and NFC technology to make healthy eating, elderly-friendly shopping, and environmental sustainability easier and more accessible.\n\n👥 TEAM:\n• Teacher Advisor: Ms. Sally Tam (Future Talent Academy)\n• Students: Chow King Yuen (4A), Chow Ching Kiu (5A), Ho Kwok Wang (5A), Mou Sun Yik Fan (5A)\n\n🏆 ACHIEVEMENTS:\n• Merit Award - 7th Greater Bay Area STEAM Excellence Awards 2025 (Information & Communications Technology Category, Secondary Division)\n• 3rd Place - Student Innovation Competition 2025 (Hong Kong EdCity) - Senior Secondary Category\n• Champion - Fun-Tech Competition 2024/25 (Hong Kong Polytechnic University) - Creative RFID Category\n• Award ceremony at Hong Kong Computer and Communications Festival\n• Presented at Hong Kong Convention and Exhibition Centre during Learning and Teaching Expo 2025\n• Award presented by Mr. Lee Hon Cheung, Chairman of Hong Kong EdCity\n\n📰 Media Coverage: https://www.stheadline.com/knowledge/3467783/",
-      "images": [
-        "images/portfolio/nfc-smart-supermarket/p1.jpg",
-        "images/portfolio/nfc-smart-supermarket/p2.jpg",
-        "images/portfolio/nfc-smart-supermarket/p3.jpg",
-        "images/portfolio/nfc-smart-supermarket/p4.jpg"
-      ],
-      "url": "https://www.stheadline.com/knowledge/3467783/",
-      "technologies": [
-        {
-          "class": "devicon-arduino-plain",
-          "name": "NFC Tech"
-        },
-        {
-          "class": "devicon-android-plain",
-          "name": "App Inventor"
-        },
-        {
-          "class": "devicon-python-plain",
-          "name": "Python"
-        }
-      ]
-    },
-    {
       "title": "WICO Korea World Invention Creativity Competition",
       "startDate": "2024",
       "description": "Students traveled to Seoul, Korea during summer vacation to participate in the WICO World Invention Creativity Competition. This prestigious international competition attracted teams from various countries, providing an excellent opportunity for cross-cultural exchange and innovation sharing.\n\n👥 TEAM:\n• Teacher Advisors: Mr. Choi, Mr. Tang\n• Students: Hung Yin (5A), Yu Tsz Hang (5A), Wong Ngo Hin (5A), Yip Wang Ban (4A), Chow Ching Kiu (4A)\n\nAfter thorough preparation, both teams presented their innovative projects to the judges, successfully demonstrating their designs and functionalities. Despite acknowledging areas for improvement, they left a strong impression on the judges with their creativity and technical skills.\n\n🏆 ACHIEVEMENTS:\n• Silver Award - WICO Korea World Invention Creativity Competition 2024\n• International recognition from judges and peers\n• Cross-cultural exchange with teams from multiple countries\n• Valuable experience in international competition environment\n\n🎓 This experience not only validated students' innovative capabilities but also broadened their horizons through meaningful cultural exchange and learning opportunities.",
@@ -110,27 +109,28 @@
       ]
     },
     {
-      "title": "Smart Learning Health APP 2026",
-      "startDate": "2026",
-      "description": "An innovative health education platform that integrates multiple features to promote healthy lifestyles among students and the community.\n\n👥 TEAM:\n• Teacher Advisor: Ms. Sally Tam\n• Students: Development team from F.4-F.5\n\n💚 KEY FEATURES:\n• AI Health Dialogue Bot - Chatbot providing health consultations\n• BMI Calculator with Recommendations - Health and nutrition advice based on metrics\n• Interactive Health Quiz Game - Gamified learning experience teaching health knowledge\n• Health Kit Integration - Connection with health monitoring tools\n\n🎯 PROJECT GOALS:\nMaking health education fun, accessible, and personalized for students.\n\n💡 TECHNOLOGIES:\nUsing Scratch programming, App Inventor, HTML/CSS, and basic JavaScript.",
+      "title": "👑 KINGS OF PROJECT 👑\nNFC Mei Kee Smart Supermarket (NFC 梅記智能超市)",
+      "startDate": "2024",
+      "description": "An innovative NFC-based smart shopping system designed to help elderly people with visual impairment. Using NFC (Near Field Communication) technology, users can access product information through their smartphones with enhanced font sizes, color contrast, and clear labeling. The system combines AI and NFC technology to make healthy eating, elderly-friendly shopping, and environmental sustainability easier and more accessible.\n\n👥 TEAM:\n• Teacher Advisor: Ms. Sally Tam (Future Talent Academy)\n• Students: Chow King Yuen (4A), Chow Ching Kiu (5A), Ho Kwok Wang (5A), Mou Sun Yik Fan (5A)\n\n🏆 ACHIEVEMENTS:\n• Merit Award - 7th Greater Bay Area STEAM Excellence Awards 2025 (Information & Communications Technology Category, Secondary Division)\n• 3rd Place - Student Innovation Competition 2025 (Hong Kong EdCity) - Senior Secondary Category\n• Champion - Fun-Tech Competition 2024/25 (Hong Kong Polytechnic University) - Creative RFID Category\n• Award ceremony at Hong Kong Computer and Communications Festival\n• Presented at Hong Kong Convention and Exhibition Centre during Learning and Teaching Expo 2025\n• Award presented by Mr. Lee Hon Cheung, Chairman of Hong Kong EdCity\n\n📰 Media Coverage: https://www.stheadline.com/knowledge/3467783/",
       "images": [
-        "images/portfolio/smart-health-app/p1.jpg",
-        "images/portfolio/smart-health-app/p2.jpg",
-        "images/portfolio/smart-health-app/p3.jpg"
+        "images/portfolio/nfc-smart-supermarket/p1.jpg",
+        "images/portfolio/nfc-smart-supermarket/p2.jpg",
+        "images/portfolio/nfc-smart-supermarket/p3.jpg",
+        "images/portfolio/nfc-smart-supermarket/p4.jpg"
       ],
-      "url": "",
+      "url": "https://www.stheadline.com/knowledge/3467783/",
       "technologies": [
         {
-          "class": "devicon-python-plain",
-          "name": "Scratch"
+          "class": "devicon-arduino-plain",
+          "name": "NFC Tech"
         },
         {
           "class": "devicon-android-plain",
           "name": "App Inventor"
         },
         {
-          "class": "devicon-html5-plain",
-          "name": "HTML/CSS"
+          "class": "devicon-python-plain",
+          "name": "Python"
         }
       ]
     }
