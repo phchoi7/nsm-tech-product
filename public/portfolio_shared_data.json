@@ -17,9 +17,9 @@
         "class": "fas fa-school"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com",
-        "class": "fab fa-instagram"
+        "name": "facebook",
+        "url": "https://www.facebook.com/SDBNSM",
+        "class": "fab fa-facebook"
       }
     ],
     "image": "myProfile.jpg"
