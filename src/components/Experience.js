@@ -4,13 +4,12 @@ import {
   VerticalTimelineElement,
 } from "react-vertical-timeline-component";
 import "react-vertical-timeline-component/style.min.css";
-import Badge from "react-bootstrap/Badge";
 
 class Experience extends Component {
   render() {
     if (this.props.resumeProjects && this.props.resumeBasicInfo) {
       var sectionName = this.props.resumeBasicInfo.section_name.experience;
-      
+
       // Extract unique years and projects from resumeProjects
       var work = this.props.resumeProjects.map(function (project, i) {
         return (
