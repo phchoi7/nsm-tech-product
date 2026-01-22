@@ -27,6 +27,16 @@ class Footer extends Component {
                   ? this.props.sharedBasicInfo.name
                   : "???"}
               </small>
+              <br />
+              <small style={{ marginTop: "10px", display: "inline-block" }}>
+                📧 Contact us:{" "}
+                <a
+                  href="mailto:fta@sdbnsm.edu.hk"
+                  style={{ color: "inherit", textDecoration: "underline" }}
+                >
+                  fta@sdbnsm.edu.hk
+                </a>
+              </small>
             </div>
           </div>
         </div>
