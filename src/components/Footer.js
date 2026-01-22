@@ -29,7 +29,7 @@ class Footer extends Component {
               </small>
               <br />
               <small style={{ marginTop: "10px", display: "inline-block" }}>
-                📧 Contact us:{" "}
+                <span role="img" aria-label="email">📧</span> Contact us:{" "}
                 <a
                   href="mailto:fta@sdbnsm.edu.hk"
                   style={{ color: "inherit", textDecoration: "underline" }}
